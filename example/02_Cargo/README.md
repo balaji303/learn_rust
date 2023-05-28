@@ -10,3 +10,4 @@ cargo new Balaji02_hello_cargo
 
 3. The code is located in the main file [src/main.rs](src/main.rs).
 
+4. Check this README file for more info on build, run [Cargo_README.md](docs\Cargo_README.md)
