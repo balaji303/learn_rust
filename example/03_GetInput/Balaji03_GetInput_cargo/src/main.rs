@@ -14,5 +14,5 @@ fn main()
         .read_line(&mut user_input)
         // Warning is generated to handle errors
         .expect("reading input failed");
-    println!("Hi {},Welcome to the club!...",user_input);
+    println!("Hi {}!...",user_input);
 }
