@@ -8,6 +8,10 @@ fn main()
     let temp_var:i8 = -125;
     println!("{}",temp_var);
 
+    // String printing
+    let place = "Arakkonam";
+    println!("{}",place);
+
     //string to integer
     let string_to_int: u32 = "100".parse().expect("string_to_int is not a number!");
     println!("{}",string_to_int);
