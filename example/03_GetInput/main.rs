@@ -4,7 +4,7 @@ use std::io;
 fn main()
 {
     // Std print 
-    print!("Enter your Name: ");
+    println!("Enter your Name: ");
     // Declaration of the variable
     // In rust, variables are immutable(unchangeable) by default
     let mut user_input = String::new();
