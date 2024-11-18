@@ -19,3 +19,4 @@ I use Visual Studio Code and Code Runner extension.
 - [Stable Book](https://doc.rust-lang.org/stable/book/)
 - [Run Rust in docker](https://collabnix.com/getting-started-with-rust-and-docker/)
 - [MS course](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+- [Quick Referenec Doc](https://github.com/Fechin/reference/blob/main/source/_posts/rust.md)
