@@ -17,4 +17,5 @@ I use Visual Studio Code and Code Runner extension.
 - [Rust learning tips](https://www.designnews.com/embedded-systems/5-tips-learning-rust-embedded-systems)
 - [Rust Books](https://docs.rust-embedded.org/book/intro/index.html)
 - [Stable Book](https://doc.rust-lang.org/stable/book/)
-- [Run Rust in docker(https://collabnix.com/getting-started-with-rust-and-docker/)
+- [Run Rust in docker](https://collabnix.com/getting-started-with-rust-and-docker/)
+- [MS course](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
